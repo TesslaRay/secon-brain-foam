@@ -1,7 +1,9 @@
-# Todo
+# To-Do
 
+- [ ] Hablar con jesus - Edificio (Calefacción)
 - [ ] Comprar chaleco Papá
 - [ ] Enviar mail con cambio de contrato a Joussen
+- [ ] Depositar a Franco
 - [x] This is an example of a todo list item that's complete
 - [x] Todo lists are useful for keeping organised and focused
 - [x] This one is not completed yet
