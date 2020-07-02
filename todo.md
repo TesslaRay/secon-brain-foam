@@ -1,6 +1,7 @@
 # To-Do
 
 - [ ] Hablar con jesus - Edificio (Calefacción)
+- [ ] Migrar a ioled-antu 
 - [ ] Comprar chaleco Papá
 - [x] Enviar mail con cambio de contrato a Joussen
 - [ ] Depositar a Franco
