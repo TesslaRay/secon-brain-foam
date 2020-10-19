@@ -12,7 +12,7 @@ El método de Joe es simple
 
 - Make your map
 - Stay on track
-- Cross the finisline
+- Cross the finishline
 
 ### Make you map
 El primer paso es resolver preguntas del tipo: que significa aprender [cosa a aprender]?, cuanto tiempo me llevara aprenderlo? cuales son los resultados esperados? 
@@ -46,3 +46,5 @@ Lista de cosas a aprender
 - OKRs
 - Timeframe: 2 semanas
 - Habito: escribir una vez al día en el foam con una técnica de foam nueva y utilizar las técnicas del día anterior.
+
+[[ar.md]]
