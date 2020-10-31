@@ -41,3 +41,5 @@ Los desarrolladores de AR deben conocer comportamientos claves para mezclar de u
 ## La mágica de AR: detectar, sensar y medir
 * *Outside-In Tracking*: Las cámaras estan situados no el el celular, si no en el espacio, tipicamente en paredes. Este metodo ofrece más precición en el "trackeo", pero al agregar dispositivos externos pierde portabilidad.
 * *Inside-Out Tracking*: Usa cámaras y sensores situados en el dispositivo para trackear la posición en el mundo real. Este metodo requiere más hardware en el dispositivo, pero ofrece más portabilidad.
+
+
